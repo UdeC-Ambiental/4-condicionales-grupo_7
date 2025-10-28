@@ -1,0 +1,11 @@
+sitio,temperatura,riesgo_termico,categoria_temp
+Río Subachoque,18.5,No,Fría
+Quebrada Honda (Facatativá),19.4,No,Fría
+Río Botello (Madrid),22.7,No,Moderada
+Afluente San José (El Rosal),20.1,No,Moderada
+Río Villeta,28.3,Sí,Caliente
+Quebrada Cune (San Francisco),25.2,No,Moderada
+Río Tobia (Nocaima),26.9,No,Moderada
+Quebrada Negra (La Vega),24.4,No,Moderada
+Río Bahamón (Sasaima),27.6,No,Moderada
+Río Guayuriba (La Mesa),30.5,Sí,Caliente
